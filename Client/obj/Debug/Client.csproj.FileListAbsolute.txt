@@ -1,0 +1,14 @@
+C:\Users\Vladislav\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Vladislav\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\Vladislav\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.ChatUDP.resources
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\Vladislav\source\repos\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vladislav\source\repos\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Vladislav\source\repos\Client\Client\obj\Debug\Client.TcpClient.resources
